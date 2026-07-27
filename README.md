@@ -330,15 +330,17 @@ Display Results on Dashboard
 
 ## Screenshots
 
-Include screenshots of:
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-- Dashboard
-- Complaint Submission Form
-- AI Analysis Results
-- Complaint History
-- Risk Distribution Chart
-- Complaint Trend Chart
-- Export Reports
+### AI Analysis Results
+![AI Analysis Results](screenshots/ai_results.png)
+
+### Complaint History
+![Complaint History](screenshots/complaint_history.png)
+
+### Dashboard Analytics
+![Dashboard Analytics](screenshots/charts.png)
 
 ---
 
